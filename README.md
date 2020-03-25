@@ -1,6 +1,12 @@
 # shiny dashboard sample
 
-shinydashboard official web page: https://rstudio.github.io/shinydashboard/
+## References
+
+* shinydashboard official web page: https://rstudio.github.io/shinydashboard/
+
+## Shinyapps.io
+
+* https://taitrads.shinyapps.io/shiny_dashboard_sample/
 
 ## Project Directory Structure
 
