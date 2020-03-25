@@ -13,7 +13,7 @@ ksidebar <- dashboardSidebar(
     menuItem("Search", icon = icon("search"),
              menuItem("Search 1", tabName = "tab_search_1", icon = icon("angle-right")),
              menuItem("Search 2", tabName = "tab_search_2", icon = icon("angle-right"))),
-    menuItem("GitHub", icon = icon("github"), href = "https://github.com/", newtab = TRUE)
+    menuItem("GitHub", icon = icon("github"), href = "https://github.com/chinhungtseng/shiny_dashboard_sample", newtab = TRUE)
   )
 )
 
